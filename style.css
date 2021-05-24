@@ -45,6 +45,7 @@ body .container .todo_title {
     background-color: #26262652;
     background-blend-mode: color-burn;
     background-size: cover;
+    z-index: 11111111;
 }
 .addTask{
     margin: 10px;
